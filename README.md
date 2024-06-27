@@ -13,7 +13,7 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game feat
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone
+    git clone https://github.com/husainma/rock_paper_scissors.git    
     ```
 
 2. Install required libraries:
